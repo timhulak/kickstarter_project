@@ -1,0 +1,20 @@
+#Kickstarter Data Report Questions:
+
+1. What are three conclusions we can make about Kickstarter campaigns given the provided data?
+	1. Creativity and arts projects appear to be the most popular type of campaign. The top four categories that Kickstarter campaigns are attempting to fund are theater, music, technology, and film & video. 
+
+	2. Within the theater category, plays tower over all other sub-categories with 694 successful campaigns, 19 live campaigns, and 353 cancelled campaigns (a total of 1,066 campaigns). The next highest sub-category is rock music with 260 campaigns.   
+
+	3. ALL of the journalism campaigns were cancelled! There were spikes in cancellations in the month of July (five cancellations in 2014 and 3 cancellations in 2016 totaling eight cancellations in the month of July between 2014 - 2017 for journalism campaigns).  
+
+
+2. What are some of the limitations of this dataset?
+	a. While they can be considered "major countries," there are only 21 of the 195 countries in the world.
+	b. The gender ratio of campaign-backers is not included. Perhaps even racial/socioeconomic breakdowns.  
+	c. If the money collected for a successful campaign was actually used to fund the described project. 
+	d. The city/province/state that the campaign was based in for more specific demographic information.   
+
+
+3. What are some other possible tables/graphs that we could create?
+	a. Using the data analysis Add-in from the Data tab on the ribbon, in an effort to analyze correlation, we could run a regression analysis on the data to test for R Square and coefficients. 
+	b. A pivot table and pivot bar chart/line cart could be made to visualize/analyze average donations by country/sub-category to see what sort of causes certain countries tend to support. 
